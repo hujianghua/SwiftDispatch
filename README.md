@@ -1,0 +1,2 @@
+# SwiftDispatch
+swift中,DispatchSemaphore,DispatchGroup,DispatchBarric,DispatchAfter用法model。
